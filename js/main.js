@@ -6,8 +6,6 @@ const btn1 = document.querySelector('span');
 const btn2 = document.querySelector('button');
 const div = document.querySelector('div');
 
-console.dir(document);
-new WOW().inti();
 
 btn2.onclick = function(){
     if(div.classList.contains('dark')){

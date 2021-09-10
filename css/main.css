@@ -1,0 +1,36 @@
+.dark{
+    background-color: black;
+     color: blanchedalmond;
+     height: 100vh;
+}
+.check{
+    background-color: rgba(128, 128, 128, 0.753);
+}
+.btn2{
+    font-size: 30px;
+}
+.heda{
+    font-size: 38px;
+}
+.heda span{
+    color: brown !important;
+}
+.card{
+    background-color: #222 ;
+    color: blanchedalmond;
+
+}
+label{
+    
+    color: rgb(124, 80, 123);
+    font-size: 25px;
+}
+.none{
+    display: none;
+    z-index: 1000;
+}
+li{
+ list-style: none;   
+ margin-left: 15px;
+ z-index: 1000;
+}
